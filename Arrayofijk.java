@@ -21,7 +21,7 @@ public class Arrayofijk{
             {
                 if(i[b]+j[c]=k[d])
                 {
-                    System.out.print(b+" "+c+" "+d);
+                    System.out.print(i[b]+" "+j[c]+" "+k[d]);
                 }
             }
           }
